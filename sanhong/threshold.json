@@ -1,0 +1,67 @@
+[
+  {
+    "key": "Not func area threshold",
+    "name": "非功能区面积阈值",
+    "value": 0
+  },
+  {
+    "key": "Not func length threshold",
+    "name": "非功能区长度阈值",
+    "value": 0
+  },
+  {
+    "key": "Not func width threshold",
+    "name": "非功能区宽度阈值",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 1 X  left limit",
+    "name": "拍照点1非功能区X左限位",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 1 X  right limit",
+    "name": "拍照点1非功能区X右限位",
+    "value": 100
+  },
+  {
+    "key": "Photo spot 2 X  left limit",
+    "name": "拍照点2非功能区X左限位",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 2 X  right limit",
+    "name": "拍照点2非功能区X右限位",
+    "value": 100
+  },
+  {
+    "key": "Photo spot 3 X  left limit",
+    "name": "拍照点3非功能区X左限位",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 3  X  right limit",
+    "name": "拍照点3非功能区X右限位",
+    "value": 100
+  },
+  {
+    "key": "Photo spot 4 X  left limit",
+    "name": "拍照点4非功能区X左限位",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 4 X  right limit",
+    "name": "拍照点4非功能区X右限位",
+    "value": 100
+  },
+  {
+    "key": "Photo spot 1 X  left limit",
+    "name": "非功能区面积阈值",
+    "value": 0
+  },
+  {
+    "key": "Photo spot 1 X  left limit",
+    "name": "非功能区宽度阈值",
+    "value": 0
+  }
+]

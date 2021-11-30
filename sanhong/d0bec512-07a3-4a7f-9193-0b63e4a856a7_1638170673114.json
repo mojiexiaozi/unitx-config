@@ -1,0 +1,1572 @@
+{
+  "part_id": "d0bec512-07a3-4a7f-9193-0b63e4a856a7",
+  "image_id": "",
+  "image_timestamp": 1638170673114,
+  "ok": true,
+  "ng_types": [],
+  "sequence": "SanHong",
+  "capture_config": "left",
+  "capture_index": 0,
+  "n_capture": 2,
+  "repeat_index": 19,
+  "camera_id": "23801896",
+  "network_detail_results": {
+    "a_left": {
+      "ng_stats": [
+        {
+          "name": "NG:外圆划伤",
+          "color": "4DD0E1",
+          "ng": false,
+          "count": 0,
+          "segments": [
+            {
+              "x": "478",
+              "y": "630",
+              "vh_width": "1.0",
+              "vh_height": "1.0",
+              "mr_width": "1.0",
+              "mr_length": "1.0",
+              "area": "1.0",
+              "circumference": "0.0",
+              "mr_box": [
+                [
+                  "478.0",
+                  "630.0"
+                ],
+                [
+                  "478.0",
+                  "630.0"
+                ],
+                [
+                  "478.0",
+                  "630.0"
+                ],
+                [
+                  "478.0",
+                  "630.0"
+                ]
+              ],
+              "original_x": "1265.0",
+              "original_y": "1622.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "1.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "1.0",
+              "original_area": "1.0",
+              "original_circumference": "0.0",
+              "original_mr_box": [
+                [
+                  "1265.0",
+                  "1622.0"
+                ],
+                [
+                  "1265.0",
+                  "1622.0"
+                ],
+                [
+                  "1265.0",
+                  "1622.0"
+                ],
+                [
+                  "1265.0",
+                  "1622.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "485",
+              "y": "618",
+              "vh_width": "1.0",
+              "vh_height": "5.0",
+              "mr_width": "1.0",
+              "mr_length": "5.0",
+              "area": "5.0",
+              "circumference": "4.0",
+              "mr_box": [
+                [
+                  "485.0",
+                  "620.0"
+                ],
+                [
+                  "485.0",
+                  "620.0"
+                ],
+                [
+                  "485.0",
+                  "616.0"
+                ],
+                [
+                  "485.0",
+                  "616.0"
+                ]
+              ],
+              "original_x": "1282.0",
+              "original_y": "1593.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "11.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "11.0",
+              "original_area": "11.0",
+              "original_circumference": "10.0",
+              "original_mr_box": [
+                [
+                  "1282.0",
+                  "1598.0"
+                ],
+                [
+                  "1282.0",
+                  "1598.0"
+                ],
+                [
+                  "1282.0",
+                  "1588.0"
+                ],
+                [
+                  "1282.0",
+                  "1588.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "620",
+              "vh_width": "1.0",
+              "vh_height": "10.0",
+              "mr_width": "1.0",
+              "mr_length": "10.0",
+              "area": "10.0",
+              "circumference": "9.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "625.0"
+                ],
+                [
+                  "309.0",
+                  "625.0"
+                ],
+                [
+                  "309.0",
+                  "616.0"
+                ],
+                [
+                  "309.0",
+                  "616.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1599.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "23.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "23.0",
+              "original_area": "23.0",
+              "original_circumference": "22.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1610.0"
+                ],
+                [
+                  "853.0",
+                  "1610.0"
+                ],
+                [
+                  "853.0",
+                  "1588.0"
+                ],
+                [
+                  "853.0",
+                  "1588.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "607",
+              "vh_width": "1.0",
+              "vh_height": "10.0",
+              "mr_width": "1.0",
+              "mr_length": "10.0",
+              "area": "10.0",
+              "circumference": "9.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "612.0"
+                ],
+                [
+                  "309.0",
+                  "612.0"
+                ],
+                [
+                  "309.0",
+                  "603.0"
+                ],
+                [
+                  "309.0",
+                  "603.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1568.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "23.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "23.0",
+              "original_area": "23.0",
+              "original_circumference": "22.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1579.0"
+                ],
+                [
+                  "853.0",
+                  "1579.0"
+                ],
+                [
+                  "853.0",
+                  "1557.0"
+                ],
+                [
+                  "853.0",
+                  "1557.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "582",
+              "vh_width": "1.0",
+              "vh_height": "5.0",
+              "mr_width": "1.0",
+              "mr_length": "5.0",
+              "area": "5.0",
+              "circumference": "4.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "584.0"
+                ],
+                [
+                  "309.0",
+                  "584.0"
+                ],
+                [
+                  "309.0",
+                  "580.0"
+                ],
+                [
+                  "309.0",
+                  "580.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1506.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "11.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "11.0",
+              "original_area": "11.0",
+              "original_circumference": "10.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1511.0"
+                ],
+                [
+                  "853.0",
+                  "1511.0"
+                ],
+                [
+                  "853.0",
+                  "1501.0"
+                ],
+                [
+                  "853.0",
+                  "1501.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "570",
+              "vh_width": "1.0",
+              "vh_height": "15.0",
+              "mr_width": "1.0",
+              "mr_length": "15.0",
+              "area": "15.0",
+              "circumference": "14.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "577.0"
+                ],
+                [
+                  "309.0",
+                  "577.0"
+                ],
+                [
+                  "309.0",
+                  "563.0"
+                ],
+                [
+                  "309.0",
+                  "563.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1477.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "35.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "35.0",
+              "original_area": "35.0",
+              "original_circumference": "34.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1494.0"
+                ],
+                [
+                  "853.0",
+                  "1494.0"
+                ],
+                [
+                  "853.0",
+                  "1460.0"
+                ],
+                [
+                  "853.0",
+                  "1460.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "332.54",
+              "y": "551.5",
+              "vh_width": "2.0",
+              "vh_height": "11.0",
+              "mr_width": "2.0",
+              "mr_length": "11.0",
+              "area": "4.0",
+              "circumference": "20.83",
+              "mr_box": [
+                [
+                  "332.0",
+                  "547.0"
+                ],
+                [
+                  "333.0",
+                  "547.0"
+                ],
+                [
+                  "333.0",
+                  "557.0"
+                ],
+                [
+                  "332.0",
+                  "557.0"
+                ]
+              ],
+              "original_x": "910.09",
+              "original_y": "1432.23",
+              "original_vh_width": "3.0",
+              "original_vh_height": "26.0",
+              "original_mr_width": "3.0",
+              "original_mr_length": "26.0",
+              "original_area": "19.0",
+              "original_circumference": "51.43",
+              "original_mr_box": [
+                [
+                  "909.0",
+                  "1421.0"
+                ],
+                [
+                  "911.0",
+                  "1421.0"
+                ],
+                [
+                  "911.0",
+                  "1446.0"
+                ],
+                [
+                  "909.0",
+                  "1446.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "548",
+              "vh_width": "1.0",
+              "vh_height": "6.0",
+              "mr_width": "1.0",
+              "mr_length": "6.0",
+              "area": "6.0",
+              "circumference": "5.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "551.0"
+                ],
+                [
+                  "309.0",
+                  "551.0"
+                ],
+                [
+                  "309.0",
+                  "546.0"
+                ],
+                [
+                  "309.0",
+                  "546.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1425.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "13.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "13.0",
+              "original_area": "13.0",
+              "original_circumference": "12.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1431.0"
+                ],
+                [
+                  "853.0",
+                  "1431.0"
+                ],
+                [
+                  "853.0",
+                  "1419.0"
+                ],
+                [
+                  "853.0",
+                  "1419.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309.33",
+              "y": "506.0",
+              "vh_width": "2.0",
+              "vh_height": "17.0",
+              "mr_width": "2.0",
+              "mr_length": "17.0",
+              "area": "1.0",
+              "circumference": "32.83",
+              "mr_box": [
+                [
+                  "309.0",
+                  "517.0"
+                ],
+                [
+                  "309.0",
+                  "501.0"
+                ],
+                [
+                  "310.0",
+                  "501.0"
+                ],
+                [
+                  "310.0",
+                  "517.0"
+                ]
+              ],
+              "original_x": "853.67",
+              "original_y": "1322.33",
+              "original_vh_width": "3.0",
+              "original_vh_height": "40.0",
+              "original_mr_width": "3.0",
+              "original_mr_length": "40.0",
+              "original_area": "5.0",
+              "original_circumference": "79.43",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1349.0"
+                ],
+                [
+                  "853.0",
+                  "1310.0"
+                ],
+                [
+                  "855.0",
+                  "1310.0"
+                ],
+                [
+                  "855.0",
+                  "1349.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "491",
+              "vh_width": "1.0",
+              "vh_height": "8.0",
+              "mr_width": "1.0",
+              "mr_length": "8.0",
+              "area": "8.0",
+              "circumference": "7.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "495.0"
+                ],
+                [
+                  "309.0",
+                  "495.0"
+                ],
+                [
+                  "309.0",
+                  "488.0"
+                ],
+                [
+                  "309.0",
+                  "488.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1287.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "18.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "18.0",
+              "original_area": "18.0",
+              "original_circumference": "17.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1296.0"
+                ],
+                [
+                  "853.0",
+                  "1296.0"
+                ],
+                [
+                  "853.0",
+                  "1279.0"
+                ],
+                [
+                  "853.0",
+                  "1279.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "479",
+              "vh_width": "1.0",
+              "vh_height": "10.0",
+              "mr_width": "1.0",
+              "mr_length": "10.0",
+              "area": "10.0",
+              "circumference": "9.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "484.0"
+                ],
+                [
+                  "309.0",
+                  "484.0"
+                ],
+                [
+                  "309.0",
+                  "475.0"
+                ],
+                [
+                  "309.0",
+                  "475.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1258.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "23.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "23.0",
+              "original_area": "23.0",
+              "original_circumference": "22.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1269.0"
+                ],
+                [
+                  "853.0",
+                  "1269.0"
+                ],
+                [
+                  "853.0",
+                  "1247.0"
+                ],
+                [
+                  "853.0",
+                  "1247.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "462",
+              "vh_width": "1.0",
+              "vh_height": "8.0",
+              "mr_width": "1.0",
+              "mr_length": "8.0",
+              "area": "8.0",
+              "circumference": "7.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "466.0"
+                ],
+                [
+                  "309.0",
+                  "466.0"
+                ],
+                [
+                  "309.0",
+                  "459.0"
+                ],
+                [
+                  "309.0",
+                  "459.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "1217.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "18.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "18.0",
+              "original_area": "18.0",
+              "original_circumference": "17.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "1226.0"
+                ],
+                [
+                  "853.0",
+                  "1226.0"
+                ],
+                [
+                  "853.0",
+                  "1209.0"
+                ],
+                [
+                  "853.0",
+                  "1209.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "484.82",
+              "y": "430.46",
+              "vh_width": "3.0",
+              "vh_height": "16.0",
+              "mr_width": "3.0",
+              "mr_length": "16.0",
+              "area": "13.0",
+              "circumference": "32.49",
+              "mr_box": [
+                [
+                  "484.0",
+                  "439.0"
+                ],
+                [
+                  "484.0",
+                  "424.0"
+                ],
+                [
+                  "486.0",
+                  "424.0"
+                ],
+                [
+                  "486.0",
+                  "439.0"
+                ]
+              ],
+              "original_x": "1281.13",
+              "original_y": "1140.91",
+              "original_vh_width": "6.0",
+              "original_vh_height": "37.0",
+              "original_mr_width": "6.0",
+              "original_mr_length": "37.0",
+              "original_area": "83.5",
+              "original_circumference": "79.49",
+              "original_mr_box": [
+                [
+                  "1279.0",
+                  "1160.0"
+                ],
+                [
+                  "1279.0",
+                  "1124.0"
+                ],
+                [
+                  "1284.0",
+                  "1124.0"
+                ],
+                [
+                  "1284.0",
+                  "1160.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "480.69",
+              "y": "533.62",
+              "vh_width": "14.0",
+              "vh_height": "195.0",
+              "mr_width": "13.39",
+              "mr_length": "195.07",
+              "area": "1122.5",
+              "circumference": "539.38",
+              "mr_box": [
+                [
+                  "473.77",
+                  "419.03"
+                ],
+                [
+                  "486.16",
+                  "418.91"
+                ],
+                [
+                  "488.16",
+                  "612.97"
+                ],
+                [
+                  "475.77",
+                  "613.1"
+                ]
+              ],
+              "original_x": "1271.2",
+              "original_y": "1389.36",
+              "original_vh_width": "33.0",
+              "original_vh_height": "470.0",
+              "original_mr_width": "31.79",
+              "original_mr_length": "470.15",
+              "original_area": "6712.0",
+              "original_circumference": "1308.99",
+              "original_mr_box": [
+                [
+                  "1254.54",
+                  "1112.06"
+                ],
+                [
+                  "1285.32",
+                  "1111.8"
+                ],
+                [
+                  "1289.33",
+                  "1580.94"
+                ],
+                [
+                  "1258.55",
+                  "1581.2"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "485.42",
+              "y": "413.5",
+              "vh_width": "2.0",
+              "vh_height": "4.0",
+              "mr_width": "2.0",
+              "mr_length": "4.0",
+              "area": "2.0",
+              "circumference": "6.83",
+              "mr_box": [
+                [
+                  "485.0",
+                  "415.0"
+                ],
+                [
+                  "485.0",
+                  "412.0"
+                ],
+                [
+                  "486.0",
+                  "412.0"
+                ],
+                [
+                  "486.0",
+                  "415.0"
+                ]
+              ],
+              "original_x": "1282.81",
+              "original_y": "1098.7",
+              "original_vh_width": "3.0",
+              "original_vh_height": "8.0",
+              "original_mr_width": "3.0",
+              "original_mr_length": "8.0",
+              "original_area": "9.0",
+              "original_circumference": "15.43",
+              "original_mr_box": [
+                [
+                  "1282.0",
+                  "1102.0"
+                ],
+                [
+                  "1282.0",
+                  "1095.0"
+                ],
+                [
+                  "1284.0",
+                  "1095.0"
+                ],
+                [
+                  "1284.0",
+                  "1102.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "331.43",
+              "y": "412.55",
+              "vh_width": "5.0",
+              "vh_height": "51.0",
+              "mr_width": "5.0",
+              "mr_length": "51.0",
+              "area": "133.0",
+              "circumference": "105.8",
+              "mr_box": [
+                [
+                  "329.0",
+                  "387.0"
+                ],
+                [
+                  "333.0",
+                  "387.0"
+                ],
+                [
+                  "333.0",
+                  "437.0"
+                ],
+                [
+                  "329.0",
+                  "437.0"
+                ]
+              ],
+              "original_x": "907.16",
+              "original_y": "1096.48",
+              "original_vh_width": "11.0",
+              "original_vh_height": "122.0",
+              "original_mr_width": "11.0",
+              "original_mr_length": "122.0",
+              "original_area": "771.0",
+              "original_circumference": "259.97",
+              "original_mr_box": [
+                [
+                  "901.0",
+                  "1035.0"
+                ],
+                [
+                  "911.0",
+                  "1035.0"
+                ],
+                [
+                  "911.0",
+                  "1156.0"
+                ],
+                [
+                  "901.0",
+                  "1156.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "333",
+              "y": "382",
+              "vh_width": "1.0",
+              "vh_height": "3.0",
+              "mr_width": "1.0",
+              "mr_length": "3.0",
+              "area": "3.0",
+              "circumference": "2.0",
+              "mr_box": [
+                [
+                  "333.0",
+                  "383.0"
+                ],
+                [
+                  "333.0",
+                  "383.0"
+                ],
+                [
+                  "333.0",
+                  "381.0"
+                ],
+                [
+                  "333.0",
+                  "381.0"
+                ]
+              ],
+              "original_x": "911.0",
+              "original_y": "1022.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "6.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "6.0",
+              "original_area": "6.0",
+              "original_circumference": "5.0",
+              "original_mr_box": [
+                [
+                  "911.0",
+                  "1025.0"
+                ],
+                [
+                  "911.0",
+                  "1025.0"
+                ],
+                [
+                  "911.0",
+                  "1020.0"
+                ],
+                [
+                  "911.0",
+                  "1020.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "333",
+              "y": "365",
+              "vh_width": "1.0",
+              "vh_height": "1.0",
+              "mr_width": "1.0",
+              "mr_length": "1.0",
+              "area": "1.0",
+              "circumference": "0.0",
+              "mr_box": [
+                [
+                  "333.0",
+                  "365.0"
+                ],
+                [
+                  "333.0",
+                  "365.0"
+                ],
+                [
+                  "333.0",
+                  "365.0"
+                ],
+                [
+                  "333.0",
+                  "365.0"
+                ]
+              ],
+              "original_x": "911.0",
+              "original_y": "982.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "1.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "1.0",
+              "original_area": "1.0",
+              "original_circumference": "0.0",
+              "original_mr_box": [
+                [
+                  "911.0",
+                  "982.0"
+                ],
+                [
+                  "911.0",
+                  "982.0"
+                ],
+                [
+                  "911.0",
+                  "982.0"
+                ],
+                [
+                  "911.0",
+                  "982.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "484.88",
+              "y": "376.08",
+              "vh_width": "4.0",
+              "vh_height": "28.0",
+              "mr_width": "4.0",
+              "mr_length": "28.0",
+              "area": "37.0",
+              "circumference": "56.49",
+              "mr_box": [
+                [
+                  "483.0",
+                  "388.0"
+                ],
+                [
+                  "483.0",
+                  "361.0"
+                ],
+                [
+                  "486.0",
+                  "361.0"
+                ],
+                [
+                  "486.0",
+                  "388.0"
+                ]
+              ],
+              "original_x": "1281.28",
+              "original_y": "1008.29",
+              "original_vh_width": "8.0",
+              "original_vh_height": "66.0",
+              "original_mr_width": "8.0",
+              "original_mr_length": "66.0",
+              "original_area": "225.0",
+              "original_circumference": "136.3",
+              "original_mr_box": [
+                [
+                  "1277.0",
+                  "1037.0"
+                ],
+                [
+                  "1277.0",
+                  "972.0"
+                ],
+                [
+                  "1284.0",
+                  "972.0"
+                ],
+                [
+                  "1284.0",
+                  "1037.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "332.42",
+              "y": "344.38",
+              "vh_width": "3.0",
+              "vh_height": "17.0",
+              "mr_width": "3.0",
+              "mr_length": "17.0",
+              "area": "17.5",
+              "circumference": "35.41",
+              "mr_box": [
+                [
+                  "331.0",
+                  "337.0"
+                ],
+                [
+                  "333.0",
+                  "337.0"
+                ],
+                [
+                  "333.0",
+                  "353.0"
+                ],
+                [
+                  "331.0",
+                  "353.0"
+                ]
+              ],
+              "original_x": "909.73",
+              "original_y": "931.41",
+              "original_vh_width": "6.0",
+              "original_vh_height": "40.0",
+              "original_mr_width": "6.0",
+              "original_mr_length": "40.0",
+              "original_area": "88.5",
+              "original_circumference": "86.24",
+              "original_mr_box": [
+                [
+                  "906.0",
+                  "914.0"
+                ],
+                [
+                  "911.0",
+                  "914.0"
+                ],
+                [
+                  "911.0",
+                  "953.0"
+                ],
+                [
+                  "906.0",
+                  "953.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "329",
+              "y": "334",
+              "vh_width": "1.0",
+              "vh_height": "1.0",
+              "mr_width": "1.0",
+              "mr_length": "1.0",
+              "area": "1.0",
+              "circumference": "0.0",
+              "mr_box": [
+                [
+                  "329.0",
+                  "334.0"
+                ],
+                [
+                  "329.0",
+                  "334.0"
+                ],
+                [
+                  "329.0",
+                  "334.0"
+                ],
+                [
+                  "329.0",
+                  "334.0"
+                ]
+              ],
+              "original_x": "901.0",
+              "original_y": "907.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "1.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "1.0",
+              "original_area": "1.0",
+              "original_circumference": "0.0",
+              "original_mr_box": [
+                [
+                  "901.0",
+                  "907.0"
+                ],
+                [
+                  "901.0",
+                  "907.0"
+                ],
+                [
+                  "901.0",
+                  "907.0"
+                ],
+                [
+                  "901.0",
+                  "907.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "477.97",
+              "y": "365.66",
+              "vh_width": "5.0",
+              "vh_height": "105.0",
+              "mr_width": "5.0",
+              "mr_length": "105.0",
+              "area": "209.5",
+              "circumference": "215.21",
+              "mr_box": [
+                [
+                  "476.0",
+                  "312.0"
+                ],
+                [
+                  "480.0",
+                  "312.0"
+                ],
+                [
+                  "480.0",
+                  "416.0"
+                ],
+                [
+                  "476.0",
+                  "416.0"
+                ]
+              ],
+              "original_x": "1264.61",
+              "original_y": "982.48",
+              "original_vh_width": "11.0",
+              "original_vh_height": "252.0",
+              "original_mr_width": "11.0",
+              "original_mr_length": "252.0",
+              "original_area": "1306.5",
+              "original_circumference": "520.16",
+              "original_mr_box": [
+                [
+                  "1260.0",
+                  "854.0"
+                ],
+                [
+                  "1270.0",
+                  "854.0"
+                ],
+                [
+                  "1270.0",
+                  "1105.0"
+                ],
+                [
+                  "1260.0",
+                  "1105.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "331.57",
+              "y": "321.3",
+              "vh_width": "5.0",
+              "vh_height": "20.0",
+              "mr_width": "5.0",
+              "mr_length": "20.0",
+              "area": "31.5",
+              "circumference": "42.73",
+              "mr_box": [
+                [
+                  "329.0",
+                  "309.0"
+                ],
+                [
+                  "333.0",
+                  "309.0"
+                ],
+                [
+                  "333.0",
+                  "328.0"
+                ],
+                [
+                  "329.0",
+                  "328.0"
+                ]
+              ],
+              "original_x": "907.43",
+              "original_y": "876.57",
+              "original_vh_width": "11.0",
+              "original_vh_height": "47.0",
+              "original_mr_width": "11.0",
+              "original_mr_length": "47.0",
+              "original_area": "178.5",
+              "original_circumference": "103.25",
+              "original_mr_box": [
+                [
+                  "901.0",
+                  "846.0"
+                ],
+                [
+                  "911.0",
+                  "846.0"
+                ],
+                [
+                  "911.0",
+                  "892.0"
+                ],
+                [
+                  "901.0",
+                  "892.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "477.51",
+              "y": "299.75",
+              "vh_width": "2.0",
+              "vh_height": "12.0",
+              "mr_width": "2.0",
+              "mr_length": "12.0",
+              "area": "10.5",
+              "circumference": "23.41",
+              "mr_box": [
+                [
+                  "477.0",
+                  "294.0"
+                ],
+                [
+                  "478.0",
+                  "294.0"
+                ],
+                [
+                  "478.0",
+                  "305.0"
+                ],
+                [
+                  "477.0",
+                  "305.0"
+                ]
+              ],
+              "original_x": "1263.52",
+              "original_y": "823.99",
+              "original_vh_width": "4.0",
+              "original_vh_height": "28.0",
+              "original_mr_width": "4.0",
+              "original_mr_length": "28.0",
+              "original_area": "78.0",
+              "original_circumference": "58.61",
+              "original_mr_box": [
+                [
+                  "1262.0",
+                  "810.0"
+                ],
+                [
+                  "1265.0",
+                  "810.0"
+                ],
+                [
+                  "1265.0",
+                  "837.0"
+                ],
+                [
+                  "1262.0",
+                  "837.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "308.51",
+              "y": "384.73",
+              "vh_width": "3.0",
+              "vh_height": "170.0",
+              "mr_width": "3.0",
+              "mr_length": "170.0",
+              "area": "62.0",
+              "circumference": "346.28",
+              "mr_box": [
+                [
+                  "307.0",
+                  "288.0"
+                ],
+                [
+                  "309.0",
+                  "288.0"
+                ],
+                [
+                  "309.0",
+                  "457.0"
+                ],
+                [
+                  "307.0",
+                  "457.0"
+                ]
+              ],
+              "original_x": "851.56",
+              "original_y": "1029.2",
+              "original_vh_width": "6.0",
+              "original_vh_height": "409.0",
+              "original_mr_width": "6.0",
+              "original_mr_length": "409.0",
+              "original_area": "443.5",
+              "original_circumference": "843.29",
+              "original_mr_box": [
+                [
+                  "848.0",
+                  "796.0"
+                ],
+                [
+                  "853.0",
+                  "796.0"
+                ],
+                [
+                  "853.0",
+                  "1204.0"
+                ],
+                [
+                  "848.0",
+                  "1204.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "477.58",
+              "y": "285.5",
+              "vh_width": "2.0",
+              "vh_height": "4.0",
+              "mr_width": "2.0",
+              "mr_length": "4.0",
+              "area": "2.0",
+              "circumference": "6.83",
+              "mr_box": [
+                [
+                  "477.0",
+                  "284.0"
+                ],
+                [
+                  "478.0",
+                  "284.0"
+                ],
+                [
+                  "478.0",
+                  "287.0"
+                ],
+                [
+                  "477.0",
+                  "287.0"
+                ]
+              ],
+              "original_x": "1263.7",
+              "original_y": "789.5",
+              "original_vh_width": "4.0",
+              "original_vh_height": "8.0",
+              "original_mr_width": "4.0",
+              "original_mr_length": "8.0",
+              "original_area": "15.0",
+              "original_circumference": "17.21",
+              "original_mr_box": [
+                [
+                  "1262.0",
+                  "786.0"
+                ],
+                [
+                  "1265.0",
+                  "786.0"
+                ],
+                [
+                  "1265.0",
+                  "793.0"
+                ],
+                [
+                  "1262.0",
+                  "793.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "309",
+              "y": "281",
+              "vh_width": "1.0",
+              "vh_height": "3.0",
+              "mr_width": "1.0",
+              "mr_length": "3.0",
+              "area": "3.0",
+              "circumference": "2.0",
+              "mr_box": [
+                [
+                  "309.0",
+                  "282.0"
+                ],
+                [
+                  "309.0",
+                  "282.0"
+                ],
+                [
+                  "309.0",
+                  "280.0"
+                ],
+                [
+                  "309.0",
+                  "280.0"
+                ]
+              ],
+              "original_x": "853.0",
+              "original_y": "778.0",
+              "original_vh_width": "1.0",
+              "original_vh_height": "6.0",
+              "original_mr_width": "1.0",
+              "original_mr_length": "6.0",
+              "original_area": "6.0",
+              "original_circumference": "5.0",
+              "original_mr_box": [
+                [
+                  "853.0",
+                  "781.0"
+                ],
+                [
+                  "853.0",
+                  "781.0"
+                ],
+                [
+                  "853.0",
+                  "776.0"
+                ],
+                [
+                  "853.0",
+                  "776.0"
+                ]
+              ],
+              "ng": false
+            },
+            {
+              "x": "477.44",
+              "y": "253.0",
+              "vh_width": "2.0",
+              "vh_height": "10.0",
+              "mr_width": "2.0",
+              "mr_length": "10.0",
+              "area": "3.0",
+              "circumference": "18.83",
+              "mr_box": [
+                [
+                  "477.0",
+                  "255.0"
+                ],
+                [
+                  "477.0",
+                  "246.0"
+                ],
+                [
+                  "478.0",
+                  "246.0"
+                ],
+                [
+                  "478.0",
+                  "255.0"
+                ]
+              ],
+              "original_x": "1263.29",
+              "original_y": "711.0",
+              "original_vh_width": "4.0",
+              "original_vh_height": "23.0",
+              "original_mr_width": "4.0",
+              "original_mr_length": "23.0",
+              "original_area": "21.0",
+              "original_circumference": "46.49",
+              "original_mr_box": [
+                [
+                  "1262.0",
+                  "716.0"
+                ],
+                [
+                  "1262.0",
+                  "694.0"
+                ],
+                [
+                  "1265.0",
+                  "694.0"
+                ],
+                [
+                  "1265.0",
+                  "716.0"
+                ]
+              ],
+              "ng": false
+            }
+          ]
+        }
+      ],
+      "location_results": null
+    }
+  },
+  "saved_image_paths": [
+    "/home/unitx/unitx_data/production/output/images-2021-11-29/left/OK/images/d0bec512-07a3-4a7f-9193-0b63e4a856a7_00_left_r1_ch_6_7_r2_ch_6_7_r3_ch_6_7_r4_ch_6_7_r5_ch_6_7_us250_2021_11_29-15_24_33_114.png"
+  ],
+  "saved_mask_paths": []
+}
